@@ -4,4 +4,8 @@ The Weather Forecast Application is a sleek, user-friendly web platform providin
 ![ALT Screenshot 2024-12-05 180154](https://github.com/user-attachments/assets/e0179ee6-6da6-4d64-bc81-ca5744c658ae)
 
 
+![ALTScreenshot 2024-12-05 180232](https://github.com/user-attachments/assets/acfb5eb7-10bf-4af7-992c-c5f84aaaafc3)
+
+
+
 
